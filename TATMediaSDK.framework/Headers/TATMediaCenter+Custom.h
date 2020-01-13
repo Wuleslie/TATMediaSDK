@@ -3,7 +3,7 @@
 //  TATMediaSDK
 //
 //  Created by wuleslie on 2019/12/16.
-//  Copyright © 2019 tuia. All rights reserved.
+//  Copyright © 2019 wuleslie. All rights reserved.
 //
 
 #import "TATMediaCenter.h"
