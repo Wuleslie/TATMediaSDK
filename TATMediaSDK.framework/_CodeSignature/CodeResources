@@ -8,10 +8,6 @@
 		<data>
 		YbVpiPwsoLDSLg45z/l27bZcdT8=
 		</data>
-		<key>Headers/TATMediaCenter+BetaTest.h</key>
-		<data>
-		kw5mNPQ/cEkJY0jW3kNXZjQZLF8=
-		</data>
 		<key>Headers/TATMediaCenter+Custom.h</key>
 		<data>
 		m2ak9EWB1X4WY4NNz8dZ5ql1QWI=
@@ -34,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AY8vN6V4DlRcf+/KdKBmn6cVuPY=
+		i1k0JA1pL/cSjTKjeH61E2Z/9lU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -52,17 +48,6 @@
 			<key>hash2</key>
 			<data>
 			qE6OLb8JSPqO4Ape1xrnaeAIDgAnmEoHHsw1uN5/i1w=
-			</data>
-		</dict>
-		<key>Headers/TATMediaCenter+BetaTest.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kw5mNPQ/cEkJY0jW3kNXZjQZLF8=
-			</data>
-			<key>hash2</key>
-			<data>
-			cxg2KuS8zmJrfo0ZDyuf32W77Nrsq3MbRqHXXDOEhXs=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter+Custom.h</key>

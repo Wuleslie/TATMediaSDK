@@ -12,7 +12,6 @@
 #import "TATMediaCenter+Interstitial.h"
 #import "TATMediaCenter+Custom.h"
 #import "TATCustomAdModel.h"
-#import "TATMediaCenter+BetaTest.h"
 
 //! Project version number for TATMediaSDK.
 FOUNDATION_EXPORT double TATMediaSDKVersionNumber;
